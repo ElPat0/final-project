@@ -19,8 +19,8 @@ function Patrick() {
                     <ul>
                         <li>HTML5/CSS/JS</li>
                         <li>ReactJS/JSX</li>
-                        <li>MongoDB</li>
-                        <li>MySQL</li>
+                        <li>MongoDB & MySQL</li>
+                        <li>Express</li>
                         <li>NodeJS</li>
                     </ul>
                     

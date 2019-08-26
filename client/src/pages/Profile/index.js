@@ -8,7 +8,7 @@ import {
 } from 'reactstrap';
 import Navbar from '../../components/Navbar';
 import logo from '../../images/1.png';
-import './profile.css';
+import './profile.scss';
 import NotesForm from '../../components/profile/profileForm';
 import UpdateForm from '../../components/profile/updateProfile';
 import API from '../../utils/API';
